@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijaylaxmibuddhiraja&label=Profile%20views&color=0e75b6&style=flat" alt="vijaylaxmibuddhiraja" /> </p>
 
-- 🔭 I’m currently working on [E-commerce Backend System (Java OOP, HashMap, Lambda, SQLite, JDBC) – (Planning to migrate to Spring Boot framework!)](https://github.com/Nehaasati/websideEcommerce)
+- 🔭 I’m currently working on [E-commerce website Backend System (Java OOP, SQLite, JDBC) – (Planning to migrate to Spring Boot framework!)] https://github.com/vijaylaxmibuddhiraja/GizmoGrid_Ecommerce
 
 - 🌱 I’m currently learning **Spring Boot for backend development**
 
