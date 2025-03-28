@@ -8,13 +8,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijaylaxmibuddhiraja&label=Profile%20views&color=0e75b6&style=flat" alt="vijaylaxmibuddhiraja" /> </p>
 
-- 🔭 I’m currently working on [E-commerce website Backend System (Java OOP, SQLite, JDBC) – (Planning to migrate to Spring Boot framework!)] https://github.com/vijaylaxmibuddhiraja/GizmoGrid_Ecommerce
+- 🔭 I’m currently working on [E-commerce website Backend System (Java OOP, HashMap, SQLite, JDBC) – (Planning to migrate to Spring Boot framework!)](https://github.com/vijaylaxmibuddhiraja/GizmoGrid_Ecommerce.git)
+- 🌱 I’m currently pursuing **** Systemutvecklare(System Developer)
 
-- 🌱 I’m currently learning **Spring Boot for backend development**
+ 👯 I’m looking to collaborate on **Java Backend Development (Spring Boot, REST APIs, Databases, Microservices) Automation Testing (Selenium, Cucumber, JUnit, API Testing, CI/CD Pipelines),Full-Stack Applications, Containerization using Docker, Working with cloud platforms like AWS**
 
-- 👯 I’m looking to collaborate on **Java Backend Development (Spring Boot, REST APIs, Databases, Microservices) Automation Testing (Selenium, Cucumber, JUnit, API Testing, CI/CD Pipelines),**
+- 🤝 I am actively looking for Internships/Jobs in Sweden **If you're hiring or know about opportunities, let's connect!**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vijaylaxmibuddhiraja](https://github.com/vijaylaxmibuddhiraja)
+
 
 - 💬 Ask me about **Java & Spring Boot(REST APIs, Microservices), Software Development (SOLID Principles, Clean Code, Design Patterns) Agile & Scrum (Sprint Planning, Retrospectives, Team Collaboration) Automation Testing (Selenium, Cucumber, JUnit, API Testing, CI/CD)**
 
