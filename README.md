@@ -2,7 +2,7 @@
 <h3 align="center">Java Backend & Automation Testing Enthusiast and Looking for Internship Roles</h3>
 
 <img align="right" alt ="girlwithcoffee" widht="200" src="https://github.com/user-attachments/assets/6e49af7f-0561-4720-a124-70e6201872fc">
-">
+
 
 
 
